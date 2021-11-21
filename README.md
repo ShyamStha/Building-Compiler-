@@ -1,10 +1,10 @@
-# Lets_Build_a_Compiler_LIVE
+# Building Compiler 
 This is a python implementation of JamieBuild's "Super Tiny Compiler"
 
 
 ## Overview
 
-[JamieBuilds](https://github.com/jamiebuilds/the-super-tiny-compiler) developed a wonderfully educative compiler example a few years ago in Javascript, and this is a 250 line python implementation. It's the code for [this](https://youtu.be/jeOU6KJFi8c) live Battle Royale game show hosted by Siraj Raval on Youtube. It takes an input expression in LISP and converts it into C.
+[JamieBuilds](https://github.com/jamiebuilds/the-super-tiny-compiler) developed a wonderfully educative compiler example a few years ago in Javascript, and this is a 250 line python implementation. It takes an input expression in LISP and converts it into C.
 
 ## Dependencies
 
